@@ -13,7 +13,7 @@ $ rspec simulator_spec.rb
 
 ### List of Commands
 
-- PLACE - place your robot on the board first. Example: place 0,0,NORTH
+- PLACE - place your robot on the board first. Example: PLACE 0,0,NORTH
 - MOVE - make the robot step forward
 - LEFT - turn the robot 90 degrees counter-clockwise
 - RIGHT - turn the robot 90 degrees clockwise
